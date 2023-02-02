@@ -1,0 +1,8 @@
+"name": "Xenoblade3",
+  "description": "Audio Loader project for Steam Deck",
+  "author": "FbZ223",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": false,
+  "ignore": [],
+  "mappings": {}
